@@ -1,5 +1,5 @@
 from selenium import webdriver
-from hw_part2 import locators as _locators
+from part2 import locators as _locators
 import pytest
 
 @pytest.fixture()

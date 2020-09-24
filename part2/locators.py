@@ -1,4 +1,4 @@
-#sign_up
+#Locators
 new_email_input = "[name = 'registration-email']"
 new_password_input = "[name = 'registration-password1']"
 repeat_new_password_input = "[name = 'registration-password2']"

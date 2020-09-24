@@ -1,5 +1,5 @@
 import time
-from hw_part1 import locators as _locators
+from part1 import locators as _locators
 
 def test_item_button(browser):
         #Data
